@@ -4,4 +4,4 @@
    <img src="docs/screenshot-from-device.jpg" width="250"/>
 
 2. dari program android studio  
-   <img src="docs/ss-android-studio.jpg" width="250"/>
+   <img src="docs/ss-android-studio.png" width="250"/>
