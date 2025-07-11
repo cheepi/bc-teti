@@ -1,4 +1,4 @@
-package com.example.miapp
+package com.example.bclayout
 
 import org.junit.Test
 
