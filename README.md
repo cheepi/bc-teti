@@ -1,7 +1,7 @@
-### **Tampilan Hello World di Device**
+## Layouting
 
-1. dari layar device  
-   <img src="docs/screenshot-from-device.jpg" width="250"/>
+1. splash screen
+   <img src="docs/splash-screen.png" width="250"/>
 
-2. dari program android studio  
-   <img src="docs/ss-android-studio.png" width="250"/>
+2. login screen
+   <img src="docs/login-screen.png" width="250"/>
