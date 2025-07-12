@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BCNetworking</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">E-mail</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_delete">Delete</string>
+</resources>

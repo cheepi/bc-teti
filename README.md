@@ -1,7 +1,10 @@
-### **Tampilan Hello World di Device**
+## Networking
 
-1. dari layar device  
-   <img src="docs/screenshot-from-device.jpg" width="250"/>
-
-2. dari program android studio  
-   <img src="docs/ss-android-studio.png" width="250"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/screen-record.gif" width="250"/><br/>
+      <p><em>splash srceen</em></p>
+    </td>
+  </tr>
+</table>
